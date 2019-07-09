@@ -1,0 +1,15 @@
+html{
+background-color: #fff;
+}
+
+body{
+color: red;
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+}
+
+html body{
+    font-size: small;
+    height: 100%;
+    margin: 0,
+}
